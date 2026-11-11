@@ -56,14 +56,14 @@ The setup installs for the current user and can bootstrap WebView2. The release 
 Stage the intended source and run the privacy check.
 
     npm run release:check
-    node scripts/check-release-privacy.mjs release/Nexus-1.0.0
+    node scripts/check-release-privacy.mjs release/Nexus-1.0.1
 
 The first command scans tracked source. Explicit paths scan payloads. The checker detects generated/private source paths, identity markers, common secret patterns, user-directory strings, and account IDs. It does not decompress archives, so also check extracted contents.
 
 Review staged files, binary strings, archive entries, and payload hashes. Diagnostics, profiles, exports, caches, and build outputs belong outside the source commit and public packages.
 
-Use GitHub no-reply identity and UTC commit/tag timestamps. Push the full source, tag v1.0.0, then publish only the portable ZIP, setup, and checksums. GitHub supplies standard source archives from the tag.
+Use GitHub no-reply identity and UTC commit/tag timestamps. Push the full source, tag the published version (for example v1.0.1), then publish only the portable ZIP, setup, and checksums. GitHub supplies standard source archives from the tag.
 
 Keep discovery evidence distinct from metadata, preserve saved user data, and bound background work. Put detailed behavioral/limitation changes in docs while keeping README and release notes short.
 
-Project code is MIT licensed. Fonts, logos, artwork, and dependencies retain separate ownership and license notices. Asset scripts preserve public source information.
+Project code and documentation are dual-licensed under MIT OR Apache-2.0, at the recipient's option. LICENSE contains the choice and both complete texts; LICENSE-MIT and LICENSE-APACHE provide the individual texts. Keep all three in both distributions. Unless explicitly stated otherwise, contributions intentionally submitted for inclusion use the same dual-license terms. Fonts, logos, artwork, and dependencies retain separate ownership and license notices. Asset scripts preserve public source information.

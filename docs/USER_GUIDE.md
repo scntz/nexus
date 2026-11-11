@@ -2,7 +2,7 @@
 
 ## Install and open
 
-Nexus 1.0.0 targets Windows 10 and 11 on x64. Microsoft Edge WebView2 supplies the desktop webview. Download either distribution from GitHub Releases.
+Nexus 1.0.1 targets Windows 10 and 11 on x64. Microsoft Edge WebView2 supplies the desktop webview. Download either distribution from GitHub Releases.
 
 For the portable, extract the archive into a writable folder and open Nexus.exe. The executable can be moved independently of an installer. Its library and preferences use Windows application-data folders, so this is not a self-contained USB profile.
 

@@ -1,9 +1,9 @@
 [package]
 name = "nexus"
-version = "1.0.0"
+version = "1.0.1"
 description = "A fast, local-first Windows game launcher"
 authors = ["Nexus"]
-license = "MIT"
+license = "MIT OR Apache-2.0"
 repository = "https://github.com/scntz/nexus"
 edition = "2021"
 rust-version = "1.90"

@@ -22,6 +22,8 @@ if (!(Test-Path -LiteralPath $portableExecutable) -or (Get-FileHash -LiteralPath
 $supportFiles = @(
     @{source='RELEASE_NOTES.md'; name='README.txt'},
     @{source='LICENSE'; name='LICENSE'},
+    @{source='LICENSE-MIT'; name='LICENSE-MIT'},
+    @{source='LICENSE-APACHE'; name='LICENSE-APACHE'},
     @{source='docs/THIRD_PARTY_LICENSES.txt'; name='THIRD_PARTY_LICENSES.txt'},
     @{source='public/THIRD_PARTY_NOTICES.txt'; name='THIRD_PARTY_NOTICES.txt'},
     @{source='public/art/ATTRIBUTION.md'; name='ARTWORK_SOURCES.md'},

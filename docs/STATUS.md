@@ -1,5 +1,11 @@
 # Release status
 
+## 1.0.1 licensing correction
+
+Project code and documentation are now dual-licensed under MIT OR Apache-2.0, at the recipient's option. Source metadata, documentation, and both Windows distributions include this choice and the complete license texts. The 1.0.0 release remains available as originally published.
+
+The correction passed 58 frontend tests, five privacy-check regressions, source/payload privacy scans, SPDX/version consistency checks, and extracted-archive license/binary integrity checks.
+
 ## Achievements in 1.0.0
 
 The application includes an artwork-led collection, a persistent toolbar, instant local search, grid/list views, favorites, platform/availability filters, game details, customization, optional duplicate grouping, hidden-game restoration, and export.

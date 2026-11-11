@@ -5,7 +5,7 @@ import { execFileSync } from "node:child_process";
 const output = [
   "NEXUS THIRD-PARTY LICENSES",
   "",
-  "Project code is MIT licensed. The following dependency notices retain their original ownership.",
+  "Project code is dual-licensed under MIT OR Apache-2.0, at your option. The following dependency notices retain their original ownership.",
   "Game artwork and platform trademarks are credited separately in public/art/ATTRIBUTION.md and public/brands/sources.json.",
   "",
 ];

@@ -48,7 +48,7 @@ The Windows package helper has a deadline, output cap, and job-based cleanup. Fo
 
 ## Additional boundaries
 
-Original clients handle downloads, cancellation, repair, updates, DRM, licenses, and cloud saves. Nexus 1.0.0 has no download manager, achievements synchronization, social/chat integration, account switching, or cloud backup.
+Original clients handle downloads, cancellation, repair, updates, DRM, licenses, and cloud saves. Nexus has no download manager, achievements synchronization, social/chat integration, account switching, or cloud backup.
 
 Duplicate grouping normalizes exact titles across providers, preserves edition/sequel/remaster words, and keeps multiple same-provider entries distinct. Names can still require manual correction. Grouping is optional.
 
