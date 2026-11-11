@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Steam",
+    "file": "steam.svg",
+    "source": "https://partner.steamgames.com/doc/marketing/branding",
+    "collection": "Simple Icons 16.35.0",
+    "collectionUrl": "https://simpleicons.org",
+    "guidelines": "https://partner.steamgames.com/doc/marketing/branding"
+  },
+  {
+    "name": "Epic Games",
+    "file": "epicgames.svg",
+    "source": "https://dev.epicgames.com/docs/services/en-US/EpicAccountServices/DesignGuidelines/index.html#epicgamesbrandguidelines",
+    "collection": "Simple Icons 16.35.0",
+    "collectionUrl": "https://simpleicons.org",
+    "guidelines": "https://dev.epicgames.com/docs/services/en-US/EpicAccountServices/DesignGuidelines/index.html#epicgamesbrandguidelines"
+  },
+  {
+    "name": "GOG.com",
+    "file": "gogdotcom.svg",
+    "source": "https://www.cdprojekt.com/en/media/logotypes/",
+    "collection": "Simple Icons 16.35.0",
+    "collectionUrl": "https://simpleicons.org"
+  },
+  {
+    "name": "EA",
+    "file": "ea.svg",
+    "source": "https://www.ea.com",
+    "collection": "Simple Icons 16.35.0",
+    "collectionUrl": "https://simpleicons.org"
+  },
+  {
+    "name": "Ubisoft",
+    "file": "ubisoft.svg",
+    "source": "https://www.ubisoft.com/en-US/company/overview.aspx",
+    "collection": "Simple Icons 16.35.0",
+    "collectionUrl": "https://simpleicons.org"
+  },
+  {
+    "name": "Battle.net",
+    "file": "battledotnet.svg",
+    "source": "https://battle.net",
+    "collection": "Simple Icons 16.35.0",
+    "collectionUrl": "https://simpleicons.org"
+  },
+  {
+    "name": "Xbox",
+    "file": "xbox.png",
+    "source": "https://cms-assets.xboxservices.com/assets/5c/00/5c000795-0763-433f-9f5b-29a9c792d9e9.png?n=favicon-32x32.png",
+    "website": "https://www.xbox.com/en-US/"
+  }
+]

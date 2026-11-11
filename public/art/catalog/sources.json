@@ -1,0 +1,44 @@
+[
+  {
+    "game": "fortnite",
+    "namespace": "fn",
+    "file": "fortnite-cover.jpg",
+    "source": "https://cdn2.unrealengine.com/fnbr-42-00-c7s4-hacking-egs-launcher-blade-1200x1600-1200x1600-0138e7df7bb0.jpg",
+    "product": "https://store-content.ak.epicgames.com/api/en-US/content/products/fortnite"
+  },
+  {
+    "game": "fortnite",
+    "namespace": "fn",
+    "file": "fortnite-hero.jpg",
+    "source": "https://cdn2.unrealengine.com/fnbr-42-00-c7s4-hacking-logo-egs-launcher-blade-2560x1440-2560x1440-00f5395fc1e7.jpg",
+    "product": "https://store-content.ak.epicgames.com/api/en-US/content/products/fortnite"
+  },
+  {
+    "game": "fall-guys",
+    "namespace": "50118b7f954e450f8823df1614b24e80",
+    "file": "fall-guys-cover.jpg",
+    "source": "https://shared.steamstatic.com/store_item_assets/steam/apps/1097150/library_600x900.jpg",
+    "product": "https://store-content.ak.epicgames.com/api/en-US/content/products/fall-guys"
+  },
+  {
+    "game": "fall-guys",
+    "namespace": "50118b7f954e450f8823df1614b24e80",
+    "file": "fall-guys-hero.jpg",
+    "source": "https://shared.steamstatic.com/store_item_assets/steam/apps/1097150/library_hero.jpg",
+    "product": "https://store-content.ak.epicgames.com/api/en-US/content/products/fall-guys"
+  },
+  {
+    "game": "rocket-league",
+    "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+    "file": "rocket-league-cover.jpg",
+    "source": "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-s2-1200x1600-f27cb62efd7e.jpg",
+    "product": "https://store-content.ak.epicgames.com/api/en-US/content/products/rocket-league"
+  },
+  {
+    "game": "rocket-league",
+    "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+    "file": "rocket-league-hero.jpg",
+    "source": "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-s1-2560x1440-a4b09c870ec3.jpg",
+    "product": "https://store-content.ak.epicgames.com/api/en-US/content/products/rocket-league"
+  }
+]

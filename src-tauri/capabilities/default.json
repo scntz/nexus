@@ -1,0 +1,7 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "Main local Nexus window; native actions are validated in Rust.",
+  "windows": ["main"],
+  "permissions": ["core:default"]
+}

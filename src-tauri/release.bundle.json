@@ -1,0 +1,10 @@
+{
+  "bundle": {
+    "resources": {
+      "../docs/THIRD_PARTY_LICENSES.txt": "THIRD_PARTY_LICENSES.txt",
+      "../public/THIRD_PARTY_NOTICES.txt": "THIRD_PARTY_NOTICES.txt",
+      "../public/art/ATTRIBUTION.md": "ARTWORK_SOURCES.md",
+      "../public/brands/sources.json": "ASSET_SOURCES.json"
+    }
+  }
+}
